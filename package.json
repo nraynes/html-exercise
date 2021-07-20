@@ -1,0 +1,13 @@
+{
+  "name": "html-exercise",
+  "version": "1.0.0",
+  "description": "an exercise to learn html",
+  "main": "entry.html",
+  "scripts": {
+    "test": "jest",
+    "start": "npx live-server",
+    "open": "open entry.html"
+  },
+  "author": "Nicholas Raynes",
+  "license": "ISC"
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+
+}
+.headingOne {
+    text-decoration:underline;
+    background-color: aqua;
+    text-align: center;
+    color: rgb(0, 47, 255);
+    text-shadow: 2px 2px 5px black;
+}
+.headingTwo {
+    text-decoration:underline;
+    background-color: rgba(21, 224, 224, 0.74);
+    text-align: center;
+    color: rgba(207, 28, 28, 0.87);
+    text-shadow: 2px 2px 5px black;
+}
+.paragraph {
+    text-align: center;
+    color:rgb(21, 255, 0);
+    font-size: 18px;
+}
+#input_item {
+    display: inline-block;
+    width: 300px;
+    text-align: right;
+}
